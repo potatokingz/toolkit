@@ -18,7 +18,7 @@ A multi-functional Python GUI toolkit made with PyQt6 featuring:
 
 ### 🤖 Discord Bot Hoster
 - Enter your Discord Bot Token and instantly host a bot
-- The bot sends "Used and Made Working By https://bit.ly/potatokingz" in a random channel and re-sends if deleted
+- The bot sends "Used and Made Working By https://potatoking.net" in a random channel and re-sends if deleted
 - **Requires**: `discord.py` (`pip install discord.py`)
 
 ### 🎮 Fun Zone
@@ -73,13 +73,13 @@ python potato_toolkit.py
 
 ## Screenshots
 
-![Toolkit Screenshot](https://i.imgur.com/your-screenshot.png)
+![Toolkit Screenshot](https://i.imgur.com/screenshot.png)
 
 ---
 
 ## Links
 
-- 🌐 [Website](https://bit.ly/potatokingz)
+- 🌐 [Website](https://potatoking.net)
 - 🐙 [GitHub](https://github.com/potatokingz)
 - ▶️ [YouTube](https://youtube.com/@potatokingz)
 
